@@ -1,0 +1,2 @@
+defmodule EctoParams do
+end
